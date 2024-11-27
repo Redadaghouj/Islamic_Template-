@@ -1,4 +1,4 @@
-# Mawʿiẓa - Islamic Website Template**
+# Mawʿiẓa - Islamic Website Template
 
 A beautifully designed Islamic website template ideal for mosques, Islamic organizations, or personal use. Focused on simplicity, elegance, and spiritual themes.  
 
